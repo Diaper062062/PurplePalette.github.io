@@ -4,16 +4,16 @@
     "author": "だいぱあ",
     "bgm": {
       "type": "LevelBgm",
-      "url": "/repository/levels/king/song.mp3"
+      "url": "/repository/levels/Anamanaguchi-Miku/song.mp3"
     },
     "characterUnits": [],
     "cover": {
       "type": "LevelCover",
-      "url": "/repository/levels/king/jacket.jpg"
+      "url": "/repository/levels/Anamanaguchi-Miku/jacket.jpg"
     },
     "data": {
       "type": "LevelData",
-      "url": "/repository/levels/king/level"
+      "url": "/repository/levels/Anamanaguchi-Miku/level"
     },
     "description": "作詞：Anamanaguchi\n作曲：Anamanaguchi\n編曲：Anamanaguchi\n歌：初音ミク",
     "engine": {
